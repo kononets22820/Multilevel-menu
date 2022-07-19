@@ -62,6 +62,6 @@
     display: none;
 }
 
-.nav-menu-nested:hover .nav-menu-nested2 {
+.btn-nav:hover .nav-menu-nested2 {
     display: block;
 }
